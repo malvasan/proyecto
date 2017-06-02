@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496368024 source:c:\users\win 8\documents\ciencia de compoutacion\prueba 1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+
